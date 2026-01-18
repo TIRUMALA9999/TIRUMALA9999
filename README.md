@@ -97,8 +97,6 @@ Building a **domain-specific Generative AI platform** for intelligent querying a
 
 ---
 
----
-
 ## 🚀 Featured Work
 🔥 **Two-minute skim:** these are the repos I want you to explore first.
 
@@ -137,7 +135,7 @@ Deep learning models across vision and sequence tasks with training curves, vali
 
 ---
 
-## 🏆 Highlights (Impact)
+## 🏆 Highlights
 - Architected a **domain-specific GenAI RAG platform** with **sub-second semantic search**  
 - Built reliable multi-agent AI workflows for structured reasoning  
 - Delivered data pipelines and analytics workflows for scale  
@@ -151,7 +149,3 @@ If you’re hiring or want to collaborate, reach out: **yegineni2002@gmail.com**
 
 ---
 
-## 🌤️ Vibe Panel (optional)
-📍 Denton, TX (UNT)  
-🧠 Current focus: GenAI + MLOps + scalable production systems  
-🛠️ Favorite tools: FastAPI • Docker • MLflow • PySpark • Azure/AWS • LangChain
