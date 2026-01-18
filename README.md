@@ -89,35 +89,35 @@ Building a **domain-specific Generative AI platform** for intelligent querying a
 🔥 **Two-minute skim:** these are the repos I want you to explore first.
 
 ### 1) **Agentic Systems (Multi-Agent GenAI)**  
-→ https://github.com/TIRUMALA9999/Agentic-Systems  
+→ GitHub Repo: https://github.com/TIRUMALA9999/Agentic-Systems  
 A multi-agent Generative AI system with structured workflows (Research → Summarize → Fact-Check) aimed at improving reliability and reducing hallucinations.  
 **Stack:** CrewAI, LangChain, LlamaIndex, RAG, Azure OpenAI
 
 ---
 
 ### 2) **PM2.5 Prediction Project (Time-Series ML)**  
-→ https://github.com/TIRUMALA9999/PM2.5_prediction_project  
+→ GitHub Repo: https://github.com/TIRUMALA9999/PM2.5_prediction_project  
 Predictive modeling of air pollution (PM2.5) using ML time-series techniques with clean preprocessing and evaluation.  
 **Stack:** Python, scikit-learn, EDA, regression modeling
 
 ---
 
 ### 3) **Spotify Data Pipeline (Data Engineering)**  
-→ https://github.com/TIRUMALA9999/Spotify_Data_Pipeline_  
+→ GitHub Repo: https://github.com/TIRUMALA9999/Spotify_Data_Pipeline_  
 End-to-end data pipeline for Spotify analytics — extraction, transformation, and analytics-ready datasets.  
 **Stack:** Python, ETL, data modeling, visualization
 
 ---
 
 ### 4) **Machine Learning Collection**  
-→ https://github.com/TIRUMALA9999/Machine_Learning  
+→ GitHub Repo: https://github.com/TIRUMALA9999/Machine_Learning  
 A curated set of ML projects spanning classification, regression, clustering, and evaluation metrics.  
 **Stack:** scikit-learn, pandas, numpy, visualization
 
 ---
 
 ### 5) **Deep Learning Projects**  
-→ https://github.com/TIRUMALA9999/Deep_Learning  
+→ GitHub Repo: https://github.com/TIRUMALA9999/Deep_Learning  
 Deep learning models across vision and sequence tasks with training curves, validation, and reproducibility.  
 **Stack:** PyTorch, TensorFlow, CNNs, preprocessing, evaluation
 
