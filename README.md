@@ -31,8 +31,6 @@ Building a **domain-specific Generative AI platform** for intelligent querying a
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=databricks&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white)
 
----
-
 ### **Machine Learning & Deep Learning**
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
@@ -41,9 +39,6 @@ Building a **domain-specific Generative AI platform** for intelligent querying a
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-4C72B0)
-
----
-
 ### **Generative AI / NLP**
 ![LLMs](https://img.shields.io/badge/-LLMs(GPT%2C%20LLaMA)-000000)
 ![RAG](https://img.shields.io/badge/-RAG-6A5ACD)
@@ -53,8 +48,6 @@ Building a **domain-specific Generative AI platform** for intelligent querying a
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?logo=huggingface&logoColor=black)
 ![MCP](https://img.shields.io/badge/-Model%20Context%20Protocol-555555)
 
----
-
 ### **Data Engineering & MLOps**
 ![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?logo=apachespark&logoColor=white)
 ![Databricks](https://img.shields.io/badge/-Databricks-FF3621?logo=databricks&logoColor=white)
@@ -62,8 +55,6 @@ Building a **domain-specific Generative AI platform** for intelligent querying a
 ![MLflow](https://img.shields.io/badge/-MLflow-0194E2)
 ![DVC](https://img.shields.io/badge/-DVC-13ADC7)
 ![Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=white)
-
----
 
 ### **Cloud & Deployment**
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white)
@@ -75,7 +66,6 @@ Building a **domain-specific Generative AI platform** for intelligent querying a
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 
----
 
 ### **Monitoring, Analytics & BI**
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white)
@@ -83,7 +73,6 @@ Building a **domain-specific Generative AI platform** for intelligent querying a
 ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?logo=snowflake&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black)
 
----
 
 ### **Tools & Environments**
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
@@ -95,7 +84,6 @@ Building a **domain-specific Generative AI platform** for intelligent querying a
 ![Cursor](https://img.shields.io/badge/-Cursor%20AI%20IDE-000000)
 ![Claude](https://img.shields.io/badge/-Claude%20Desktop-5A67D8)
 
----
 
 ## 🚀 Featured Work
 🔥 **Two-minute skim:** these are the repos I want you to explore first.
