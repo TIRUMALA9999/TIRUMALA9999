@@ -3,7 +3,7 @@
 
 🔗 **Portfolio:** https://tirumala9999.github.io/  
 💼 **LinkedIn:** https://www.linkedin.com/in/tirumala-teja-yegineni-2b2745212/  
-📧 **Email:** yegineni2002@gmail.com • 🧑‍💻 **GitHub:** https://github.com/TIRUMALA9999
+📧 **Email:** yegineni2002@gmail.com • 🧑‍💻 **GitHub:** https://github.com/TIRUMALA9999?tab=repositories
 
 ---
 
