@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Tirumala%20Teja%20Yegineni&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20ML%20Engineer%20%E2%80%A2%20Data%20Engineer%20%E2%80%A2%20GenAI%20Builder&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Tirumala%20Teja&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20ML%20Engineer%20%E2%80%A2%20Data%20Engineer%20%E2%80%A2%20GenAI%20Builder&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+AI+Agents+%26+RAG+Systems;Data+Engineering+%26+MLOps;Deep+Learning+%26+Computer+Vision;From+Data+to+Deployment)](https://git.io/typing-svg)
 
