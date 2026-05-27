@@ -7,7 +7,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-tirumala9999.github.io-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://tirumala9999.github.io)
-[![Email](https://img.shields.io/badge/Email-yegineni2002%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yegineni2002@gmail.com)
+[![Email](https://img.shields.io/badge/Email-yegineni2002%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ttteja1369@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tirumala9999&color=7c3aed&style=flat-square&label=Profile+Views)
 
