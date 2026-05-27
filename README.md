@@ -17,7 +17,7 @@
 
 ## ✦ About Me
 
-```yaml
+
 name      : Tirumala Teja Yegineni
 role      : AI/ML Engineer · Data Engineer · GenAI Builder
 focus     :
