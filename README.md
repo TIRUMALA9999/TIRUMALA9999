@@ -19,7 +19,7 @@
 
 
 name      : Tirumala Teja Yegineni
-role      : AI/ML Engineer · Data Engineer · GenAI Builder
+role      : Software Engineer, AI/ML Engineer · Data Engineer · GenAI Builder
 focus     :
   - Multi-agent AI systems (CrewAI, LlamaIndex)
   - Retrieval-Augmented Generation (RAG) pipelines
