@@ -1,289 +1,234 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Tirumala%20Teja&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20ML%20Engineer%20%E2%80%A2%20Data%20Engineer%20%E2%80%A2%20GenAI%20Builder&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:312E81,100:6D28D9&height=190&section=header&text=Tirumala%20Teja%20Yegineni&fontSize=38&fontColor=FFFFFF&fontAlignY=36&desc=AI%2FML%20%26%20Data%20Engineer%20%7C%20MLOps%20%7C%20Cloud-Native%20Systems&descSize=16&descAlignY=57&animation=fadeIn" width="100%" alt="Tirumala Teja Yegineni profile banner" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+AI+Agents+%26+RAG+Systems;Data+Engineering+%26+MLOps;Deep+Learning+%26+Computer+Vision;From+Data+to+Deployment)](https://git.io/typing-svg)
 
-<br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-tirumala9999.github.io-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://tirumala9999.github.io)
-[![Email](https://img.shields.io/badge/Email-ttteja1369%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ttteja1369@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=tirumala9999&color=7c3aed&style=flat-square&label=Profile+Views)
+
+
+
+
 
 </div>
 
----
+About me
 
-## ✦ About Me
+I build end-to-end systems across generative AI, machine learning, data engineering, and cloud delivery. My repositories cover the full engineering path: preparing data, training and evaluating models, building retrieval and agentic workflows, exposing applications, containerizing workloads, and deploying them through automated cloud-native pipelines.
 
+Building agentic AI and RAG systems with orchestration, retrieval, reranking, graph context, and local LLM inference
 
-name      : Tirumala Teja Yegineni
-role      : Software Engineer, AI/ML Engineer · Data Engineer · GenAI Builder
-focus     :
-  - Multi-agent AI systems (CrewAI, LlamaIndex)
-  - Retrieval-Augmented Generation (RAG) pipelines
-  - End-to-end data engineering & MLOps
-  - Deep Learning, Computer Vision, NLP
-portfolio : https://tirumala9999.github.io
-github    : https://github.com/TIRUMALA9999
-` `` (remove space)
+Engineering distributed data pipelines with PySpark, Azure Databricks, and medallion architecture
 
----
+Developing applied ML solutions for classification, regression, forecasting, and computer vision
 
-## ✦ Tech Stack
+Automating Azure infrastructure and Kubernetes delivery with Terraform, Docker, GitHub Actions, Argo CD, and observability
 
-### 🧠 AI / ML / GenAI
+Interested in roles spanning AI/ML Engineering, Data Engineering, MLOps, and ML Platform Engineering
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-Multi--Agent-black?style=flat-square)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-### 🗄️ Data Engineering & Databases
-
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-VectorDB-dc2626?style=flat-square)
-![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
-![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat-square&logo=dvc&logoColor=white)
-
-### ☁️ Cloud & DevOps
-
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![W&B](https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
-
-### 🌐 Web & APIs
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-
----
-
-## ✦ Featured Projects
+Selected engineering work
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 [Agentic Systems](https://github.com/TIRUMALA9999/Agentic-Systems)
-**Multi-agent AI orchestration with CrewAI**
+☁️ Cloud-Native AKS Delivery
 
-Built a 3-agent research pipeline (Research → Summarize → Fact-check) with flow-based orchestration, agent memory, and custom knowledge sources for grounded AI workflows.
+An Azure delivery platform built across an application repository and a dedicated GitOps repository.
 
-`CrewAI` `LlamaIndex` `OpenAI` `Ollama` `Python`
+Reusable Terraform modules for resource groups, networking, NSGs, ACR, and AKS
 
-</td>
-<td width="50%">
+GitHub Actions pipeline for Trivy scanning, image build/push, and GitOps image updates
 
-### 🔍 [Retrieval Augmented Generation](https://github.com/TIRUMALA9999/Retrieval_Augmented_Generation)
-**End-to-end RAG: Classic → Graph → Multimodal**
+Argo CD deployments across dev, QA, and production
 
-Vector RAG with Qdrant + BGE embeddings, cross-encoder reranking, Streamlit doc-chat UI, CLIP multimodal RAG, and Graph RAG using Neo4j PropertyGraphIndex.
+Blue/green rollout, HPA, ingress/TLS, Key Vault CSI integration, and Prometheus alerting
 
-`Qdrant` `LlamaIndex` `Ollama` `Neo4j` `CLIP` `Streamlit`
+Azure Terraform AKS Docker GitHub Actions Argo CD
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ☁️ [E-Commerce Azure Data Engineering](https://github.com/TIRUMALA9999/E-Commerce-azure-data-engineering)
-**Production data pipeline on Azure**
+🤖 Agentic Systems
 
-End-to-end cloud data engineering pipeline for e-commerce — ingestion, transformation, and analytics at scale using Azure services and Databricks.
+A practical collection of agentic workflows built with CrewAI and CrewAI Flows.
 
-`Azure` `Databricks` `Spark` `Data Engineering`
+Three-agent research → summarization → fact-checking pipeline
 
-</td>
-<td width="50%">
+Configuration-driven agents and tasks using YAML
 
-### 🎵 [Spotify Data Pipeline](https://github.com/TIRUMALA9999/Spotify_Data_Pipeline_)
-**End-to-end music data pipeline**
+Event-driven orchestration with @start and @listen
 
-Full pipeline from Spotify API ingestion to analytics — ETL, transformation, and data-driven insights with Python and cloud tooling.
+Memory experiments and a custom API-backed knowledge source
 
-`Python` `ETL` `Data Pipeline` `Cloud`
+Python CrewAI LlamaIndex OpenAI Ollama YAML
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌫️ [PM2.5 Prediction Project](https://github.com/TIRUMALA9999/PM2.5_prediction_project)
-**Air quality ML prediction**
+🔎 Retrieval-Augmented Generation
 
-Predicting particulate matter (PM2.5) air pollution levels using machine learning on real-world environmental sensor data.
+Multiple RAG architectures in one repository, from document Q&A to graph and multimodal retrieval.
 
-`Python` `Scikit-Learn` `Jupyter` `Environmental ML`
+Qdrant vector retrieval with BGE embeddings
+
+Cross-encoder reranking for higher-quality context selection
+
+Streamlit document-chat interface with local Ollama inference
+
+Multimodal CLIP retrieval and Neo4j property-graph RAG
+
+LlamaIndex Qdrant Neo4j Ollama CLIP Streamlit
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🛡️ [Guardrails](https://github.com/TIRUMALA9999/guardrails-repo)
-**AI safety and output validation**
+🏗️ Azure E-Commerce Data Engineering
 
-Implementing guardrails for LLM outputs — ensuring reliable, safe, and structured responses from generative AI systems.
+An e-commerce analytics pipeline following the Bronze → Silver → Gold medallion pattern.
 
-`Guardrails` `LLM Safety` `Validation`
+Distributed ingestion and transformation with PySpark
+
+Cleaning, normalization, schema enforcement, and data-quality processing
+
+Gold-layer business aggregations for buyer, seller, country, and gender analysis
+
+Analytics-ready outputs designed for BI and downstream ML
+
+Azure Databricks PySpark ETL Medallion Architecture
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+🌫️ PM2.5 / AQI Prediction
+
+An end-to-end applied ML project that frames air-quality prediction as both classification and regression.
+
+PM2.5 and weather-data preparation with lagged feature engineering
+
+Comparison of tree, linear, kernel, boosting, and neural-network models
+
+Approximately 97.8% best AQI classification accuracy in the project results
+
+Evaluation with classification reports, cross-validation, RMSE, MAE, and MSE
+
+Python Scikit-learn XGBoost Pandas Feature Engineering
+
+</td>
+<td width="50%" valign="top">
+
+🎵 Spotify Data Pipeline
+
+A Spark-based pipeline for transforming raw music data into analytics-ready datasets.
+
+Schema-aware ingestion and distributed transformations
+
+Cleaning, filtering, aggregation, and column standardization
+
+Separation of raw and processed data for downstream analytics and ML
+
+Design considerations for partitioning, scale, and fault-tolerant processing
+
+Apache Spark PySpark ETL Data Modeling
 
 </td>
 </tr>
 </table>
 
----
+Technical toolbox
 
-## ✦ Repository Map
+Area
+
+Technologies
+
+AI & LLM systems
+
+CrewAI, LlamaIndex, RAG, Qdrant, Neo4j, Ollama, Hugging Face, CLIP
+
+Machine learning
+
+Scikit-learn, XGBoost, PyTorch, TensorFlow, Pandas, NumPy, OpenCV
+
+Data engineering
+
+Apache Spark, PySpark, Azure Databricks, Snowflake, SQL, ETL, medallion architecture
+
+Cloud & platform
+
+Azure, Terraform, Docker, Kubernetes/AKS, Argo CD, GitHub Actions
+
+Observability & MLOps
+
+Prometheus, Grafana, MLflow, Weights & Biases, DVC, Trivy
+
+Application development
+
+Python, FastAPI, Flask, Streamlit, Go, REST APIs, YAML
+
+Explore more
 
 <details>
-<summary><b>🤖 AI Agents & Generative AI</b></summary>
-<br/>
+<summary><b>AI, deep learning, and computer vision</b></summary>
 
-| Repository | Description |
-|---|---|
-| [Agentic-Systems](https://github.com/TIRUMALA9999/Agentic-Systems) | Multi-agent orchestration with CrewAI · Flows · Memory · Tool Use |
-| [Retrieval_Augmented_Generation](https://github.com/TIRUMALA9999/Retrieval_Augmented_Generation) | Classic, Reranked, Multimodal & Graph RAG with Qdrant + LlamaIndex |
-| [GenerativeAI](https://github.com/TIRUMALA9999/GenerativeAI) | LLM theory: Transformers, Attention, Prompt Engineering, Fine-tuning |
-| [guardrails-repo](https://github.com/TIRUMALA9999/guardrails-repo) | LLM output validation and AI safety guardrails |
+Generative AI — transformer, attention, prompting, and fine-tuning concepts
+
+Deep Learning — neural-network architectures and training experiments
+
+PyTorch — framework fundamentals and model implementations
+
+Computer Vision — OpenCV image-processing workflows
+
+Natural Language Processing — text-processing and NLP foundations
 
 </details>
 
 <details>
-<summary><b>🧠 Deep Learning & Computer Vision</b></summary>
-<br/>
+<summary><b>Data, analytics, and forecasting</b></summary>
 
-| Repository | Description |
-|---|---|
-| [Deep_Learning](https://github.com/TIRUMALA9999/Deep_Learning) | Neural networks, architectures, and training techniques |
-| [Pytorch](https://github.com/TIRUMALA9999/Pytorch) | PyTorch fundamentals and model implementations |
-| [Computer-Vision](https://github.com/TIRUMALA9999/Computer-Vision) | OpenCV — image processing and vision pipelines |
-| [Convolution_Neural_Network](https://github.com/TIRUMALA9999/Convolution_Neural_Network) | CNN architectures for image classification |
+Apache Spark with Databricks — distributed data processing
 
-</details>
+Time-Series Forecasting — forecasting methods and experiments
 
-<details>
-<summary><b>📊 Machine Learning & Data Science</b></summary>
-<br/>
+SQL — relational querying practice
 
-| Repository | Description |
-|---|---|
-| [Machine_Learning](https://github.com/TIRUMALA9999/Machine_Learning) | Core ML algorithms: regression, classification, gradient descent |
-| [Natural_Language_Processing](https://github.com/TIRUMALA9999/Natural_Language_Processing) | NLP fundamentals and text processing techniques |
-| [Time_series_forecasting](https://github.com/TIRUMALA9999/Time_series_forecasting) | Time series analysis and forecasting models |
-| [PM2.5_prediction_project](https://github.com/TIRUMALA9999/PM2.5_prediction_project) | Air quality prediction with machine learning |
-| [Iris_dataset_Project](https://github.com/TIRUMALA9999/Iris_dataset_Project) | Classic end-to-end classification project |
-| [Statistics_-_Probability](https://github.com/TIRUMALA9999/Statistics_-_Probability) | Statistical foundations and probability theory |
-| [Exploratory_Data_Analysis](https://github.com/TIRUMALA9999/Exploratory_Data_Analysis) | EDA techniques and data profiling |
-| [data-analysis](https://github.com/TIRUMALA9999/data-analysis) | Data analysis bootcamp projects |
+Exploratory Data Analysis — profiling and analytical workflows
+
+Database Design — relational modeling foundations
 
 </details>
 
 <details>
-<summary><b>🔧 Data Engineering</b></summary>
-<br/>
+<summary><b>MLOps, DevOps, and application engineering</b></summary>
 
-| Repository | Description |
-|---|---|
-| [E-Commerce-azure-data-engineering](https://github.com/TIRUMALA9999/E-Commerce-azure-data-engineering) | Azure-based e-commerce data pipeline |
-| [Spotify_Data_Pipeline_](https://github.com/TIRUMALA9999/Spotify_Data_Pipeline_) | End-to-end Spotify data pipeline |
-| [Apache_Spark_with_Databricks](https://github.com/TIRUMALA9999/Apache_Spark_with_Databricks) | Distributed data processing with Spark on Databricks |
-| [data_engineering](https://github.com/TIRUMALA9999/data_engineering) | Data engineering core skillset |
-| [Snowflake](https://github.com/TIRUMALA9999/Snowflake) | Snowflake cloud data warehouse |
-| [Structured_Query_Language-SQL-](https://github.com/TIRUMALA9999/Structured_Query_Language-SQL-) | SQL fundamentals and advanced queries |
-| [Database-Design](https://github.com/TIRUMALA9999/Database-Design) | Relational database schema design |
-| [Power_BI](https://github.com/TIRUMALA9999/Power_BI) | Data visualization with Power BI |
+MLflow — experiment tracking and model lifecycle practice
+
+Data Version Control — dataset and model versioning with DVC
+
+GitHub Actions Bootcamp — automated Python CI workflows
+
+Prometheus and Grafana — containerized metrics and monitoring setup
+
+FastAPI and Flask — API and web application development
 
 </details>
 
-<details>
-<summary><b>⚙️ MLOps & DevOps</b></summary>
-<br/>
-
-| Repository | Description |
-|---|---|
-| [MLflow](https://github.com/TIRUMALA9999/MLflow) | Experiment tracking and model registry |
-| [Weights_and_Biases](https://github.com/TIRUMALA9999/Weights_and_Biases) | Model monitoring and experiment management |
-| [Data_Version_Control](https://github.com/TIRUMALA9999/Data_Version_Control) | DVC for dataset and model versioning |
-| [Docker](https://github.com/TIRUMALA9999/Docker) | Containerization with Docker |
-| [Kubernetes](https://github.com/TIRUMALA9999/Kubernetes) | Container orchestration at scale |
-| [Prometheus_and_Graphana](https://github.com/TIRUMALA9999/Prometheus_and_Graphana) | Observability: metrics, alerts, dashboards |
-| [github-actions-bootcamp](https://github.com/TIRUMALA9999/github-actions-bootcamp) | CI/CD automation with GitHub Actions |
-
-</details>
-
-<details>
-<summary><b>🌐 Web Development & APIs</b></summary>
-<br/>
-
-| Repository | Description |
-|---|---|
-| [Fast_API](https://github.com/TIRUMALA9999/Fast_API) | High-performance REST APIs with FastAPI |
-| [Flask](https://github.com/TIRUMALA9999/Flask) | Web applications and microservices with Flask |
-| [TIRUMALA9999.github.io](https://github.com/TIRUMALA9999/TIRUMALA9999.github.io) | Personal portfolio website |
-
-</details>
-
-<details>
-<summary><b>💻 Programming & CS Fundamentals</b></summary>
-<br/>
-
-| Repository | Description |
-|---|---|
-| [Python](https://github.com/TIRUMALA9999/Python) | Python fundamentals and advanced concepts |
-| [python_files_and_projects](https://github.com/TIRUMALA9999/python_files_and_projects) | Python mini-projects and scripts |
-| [Golang](https://github.com/TIRUMALA9999/Golang) | Go programming language course |
-| [Golang_1](https://github.com/TIRUMALA9999/Golang_1) | Advanced Go patterns and projects |
-| [DSA-with-Python](https://github.com/TIRUMALA9999/DSA-with-Python) | Data structures and algorithms in Python |
-| [Regular-Expressions](https://github.com/TIRUMALA9999/Regular-Expressions) | Regex patterns and text processing |
-| [Web_Scraping](https://github.com/TIRUMALA9999/Web_Scraping) | Data collection via web scraping |
-| [Currency_Conversion_tool](https://github.com/TIRUMALA9999/Currency_Conversion_tool) | Currency conversion utility |
-| [YAML](https://github.com/TIRUMALA9999/YAML) | YAML for configuration and data serialization |
-
-</details>
-
----
-
-## ✦ GitHub Stats
+GitHub activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tirumala9999&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tirumala9999&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=TIRUMALA9999&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github" height="165" alt="Tirumala Teja's GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TIRUMALA9999&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" height="165" alt="Most used repository languages" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tirumala9999&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="60%" />
+From data and models to reliable, deployable systems.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:312E81,100:6D28D9&height=90&section=footer" width="100%" alt="Footer" />
 
 </div>
-
-<div align="center">
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tirumala9999&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-<div align="center">
-
-*"From raw data to intelligent agents — building end-to-end AI systems."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%" />
-
-</div>
-
