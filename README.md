@@ -136,21 +136,43 @@ Parameter and metric logging, experiment comparison, and model registration.
 
 ## Technical toolkit
 
-### 🧠 Machine learning
+### 🧠 AI / ML / GenAI
 
-![Python](https://img.shields.io/badge/Python-7C3AED?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-7C3AED?style=flat-square) ![TensorFlow](https://img.shields.io/badge/TensorFlow-7C3AED?style=flat-square) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-7C3AED?style=flat-square) ![XGBoost](https://img.shields.io/badge/XGBoost-7C3AED?style=flat-square) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-7C3AED?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-Multi--Agent-black?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-### 🤖 Agents & retrieval
+### 🗄️ Data Engineering & Databases
 
-![LangChain](https://img.shields.io/badge/LangChain-0891B2?style=flat-square) ![LangGraph](https://img.shields.io/badge/LangGraph-0891B2?style=flat-square) ![CrewAI](https://img.shields.io/badge/CrewAI-0891B2?style=flat-square) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-0891B2?style=flat-square) ![Qdrant](https://img.shields.io/badge/Qdrant-0891B2?style=flat-square) ![Ollama](https://img.shields.io/badge/Ollama-0891B2?style=flat-square)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-VectorDB-dc2626?style=flat-square)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat-square&logo=dvc&logoColor=white)
 
-### 🗄️ Data & cloud
+### ☁️ Cloud & DevOps
 
-![PySpark](https://img.shields.io/badge/PySpark-0369A1?style=flat-square) ![Azure Databricks](https://img.shields.io/badge/Azure%20Databricks-0369A1?style=flat-square) ![Snowflake](https://img.shields.io/badge/Snowflake-0369A1?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-0369A1?style=flat-square) ![Azure](https://img.shields.io/badge/Azure-0369A1?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-0369A1?style=flat-square)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![W&B](https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
 
-### ⚙️ Production MLOps
+### 🌐 Web & APIs
 
-![MLflow](https://img.shields.io/badge/MLflow-0F766E?style=flat-square) ![DVC](https://img.shields.io/badge/DVC-0F766E?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-0F766E?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-0F766E?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-0F766E?style=flat-square) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0F766E?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 <details>
 <summary><b>View the full toolkit — modeling, software, evaluation & infrastructure</b></summary>
