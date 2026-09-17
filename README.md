@@ -1,226 +1,106 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Tirumala%20Teja%20Yegineni&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Cloud%20Infrastructure%20%7C%20Automation&descSize=17&descAlignY=58" width="100%" alt="Tirumala Teja Yegineni — DevOps Engineer, Cloud Infrastructure, Automation" />
+# Tirumala Teja Yegineni
 
-### Reliable infrastructure. Repeatable releases. Practical automation.
+### Software & AI/ML Engineer · Data Scientist
+### Generative AI · Production MLOps
 
-**Terraform · Kubernetes · CI/CD · Python · Observability**
+Building AI systems from data and experimentation to reliable production services.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Explore_my_repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TIRUMALA9999?tab=repositories)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let%27s_connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/tirumalatejayegineni/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore_my_work-2563EB?style=for-the-badge)](https://tirumala9999.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/tirumalatejayegineni/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TIRUMALA9999?tab=repositories)
 
 </div>
 
 ---
 
-## 👋 About Me
+## About me
 
-I’m **Tirumala Teja Yegineni**, a DevOps Engineer focused on cloud infrastructure, delivery automation, and operational reliability.
+I’m **Tirumala Teja Yegineni**, an AI/ML engineer with **5+ years of experience** across finance, healthcare, and enterprise technology. I connect software engineering and data science to build predictive models, generative AI applications, scalable inference APIs, and dependable model delivery workflows.
 
-My professional experience spans **AWS and Azure, Terraform, Kubernetes, CI/CD, Python, Bash, and Linux**. I work on repeatable provisioning, deployment validation, release workflows, and observability to help engineering teams deliver and troubleshoot services with confidence.
+My work spans **deep learning, retrieval-augmented generation, agentic AI, data engineering, and MLOps**. I care about evaluation, reproducibility, grounded responses, and how models perform after deployment.
 
-Alongside DevOps, I explore **RAG, generative AI, and agentic systems**, with an interest in applying them to engineering documentation, pipeline diagnostics, and operational automation.
+**M.S. in Data Science — University of North Texas**
 
-🎓 **M.S. in Data Science — University of North Texas**
+**Open to:** Software & AI/ML Engineer, Data Scientist, Generative AI Engineer, and Production MLOps Engineer roles.
 
----
+## What I build
 
-## ⚙️ Engineering Focus
-
-| Area | What I bring |
+| Area | Engineering focus |
 | :--- | :--- |
-| ☁️ **Infrastructure as Code** | Reusable Terraform configurations, environment consistency, and Git-backed infrastructure changes |
-| 🔄 **CI/CD & Release Engineering** | Build and deployment workflows, validation gates, artifact traceability, and rollback readiness |
-| 📦 **Containers & Kubernetes** | Docker workflows, Kubernetes deployments, Helm configuration, and environment promotions |
-| 🐍 **Operational Automation** | Python and Bash scripts for pre-deployment checks, health validation, and repetitive tasks |
-| 📊 **Observability & Support** | Metrics, dashboards, logs, incident investigation, and troubleshooting runbooks |
-| 🔐 **Access & Configuration** | IAM, RBAC, networking configuration, and least-privilege access patterns |
+| Machine learning & data science | Feature engineering, predictive modeling, classification, regression, and model evaluation |
+| Deep learning & NLP | CNNs, image classification, BERT-based text classification, transfer learning, and model optimization |
+| Generative & agentic AI | RAG assistants, semantic retrieval, multi-agent research, tool calling, and knowledge grounding |
+| Production MLOps | Experiment tracking, model registries, inference APIs, CI/CD, canary releases, and drift monitoring |
+| Cloud data engineering | Spark ETL, Spotify data ingestion, Azure Databricks, and Bronze–Silver–Gold pipelines |
 
----
+## Featured projects
 
-## 🧰 Technical Toolkit
+| Project | What to explore | Stack |
+| :--- | :--- | :--- |
+| [Multi-Agent Research & Content Workflows](https://github.com/TIRUMALA9999/Agentic-Systems) | Research, summarization, and fact-checking agents; Flows, memory, and custom knowledge sources | Python, CrewAI, LLMs |
+| [Document, Multimodal & Graph RAG](https://github.com/TIRUMALA9999/Retrieval_Augmented_Generation) | Document chat, reranking, text-image retrieval, and graph-based context | LlamaIndex, Qdrant, Ollama, CLIP, Neo4j |
+| [Spotify Data Pipeline](https://github.com/TIRUMALA9999/Spotify_Data_Pipeline_) | API ingestion and Python / Spark transformations for analytics-ready music data | Python, Spotify API, PySpark |
+| [Azure E-Commerce Analytics](https://github.com/TIRUMALA9999/E-Commerce-azure-data-engineering) | Bronze, Silver, and Gold layers for data cleaning and business aggregations | Azure Databricks, Spark, SQL |
+| [PM2.5 & Air Quality Prediction](https://github.com/TIRUMALA9999/PM2.5_prediction_project) | Pollution and weather features, classification, regression, and cross-validation | Scikit-learn, XGBoost, Pandas |
+| [Deep Learning Applications](https://github.com/TIRUMALA9999/Deep_Learning) | BERT email classification, churn prediction, digit classification, and quantization | TensorFlow, Keras, BERT, TFLite |
+| [CNN Image Classification](https://github.com/TIRUMALA9999/Convolution_Neural_Network) | CIFAR-10 classification notebooks and convolutional network fundamentals | CNNs, computer vision |
+| [MLflow Experiment Tracking](https://github.com/TIRUMALA9999/MLflow) | Parameter and metric logging, experiment comparison, and model registration | MLflow, Python, Scikit-learn |
 
-### ☁️ Cloud & Infrastructure
+## Technical toolkit
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+Tools and concepts across my professional work, applied projects, and continued learning.
 
-### 🔄 Delivery & Containers
-
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
-![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white)
-
-### 🛠️ Automation & Observability
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
-
-### 🧠 Additional Project & Learning Areas
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-7C3AED?style=flat-square)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-6D28D9?style=flat-square)
-![Generative AI](https://img.shields.io/badge/Generative_AI-9333EA?style=flat-square)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-
----
-
-## 📂 Explore My DevOps Repositories
-
-My public repositories include projects, exercises, and learning material across the engineering stack.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔄 CI/CD Automation
-
-Explore my GitHub Actions repository.
-
-**Focus:** CI/CD and workflow automation
-
-[View GitHub Actions →](https://github.com/TIRUMALA9999/github-actions-bootcamp)
-
-</td>
-<td width="50%" valign="top">
-
-### ☸️ Kubernetes
-
-Explore my Kubernetes repository.
-
-**Focus:** Container orchestration
-
-[View Kubernetes →](https://github.com/TIRUMALA9999/Kubernetes)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📦 Docker
-
-Explore my Docker repository.
-
-**Focus:** Containers and Docker tooling
-
-[View Docker →](https://github.com/TIRUMALA9999/Docker)
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 Monitoring
-
-Explore my Prometheus and Grafana repository.
-
-**Focus:** Observability and monitoring
-
-[View Prometheus & Grafana →](https://github.com/TIRUMALA9999/Prometheus_and_Grafana)
-
-</td>
-</tr>
-</table>
-
----
-
-## 🧠 Exploring AI-Assisted DevOps
-
-I’m interested in connecting my DevOps experience with AI projects to support practical engineering workflows.
-
-| Direction | Engineering use case |
+| Category | Skills & tools |
 | :--- | :--- |
-| 📚 **RAG for engineering knowledge** | Retrieve relevant runbooks and documentation, with source references |
-| 🔍 **Pipeline diagnostics** | Summarize build failures and suggest investigation steps |
-| 🤝 **Agent collaboration** | Coordinate evidence gathering, analysis, and review across specialized agents |
-| ☸️ **Deployment assistance** | Gather deployment context and propose validation checks |
-| 📝 **Operational documentation** | Turn troubleshooting findings into draft runbooks and handoff notes |
+| Programming & APIs | Python, SQL, Go, Bash, Git, YAML, FastAPI, Flask, Streamlit, Jupyter, REST APIs |
+| Data science | NumPy, Pandas, EDA, statistics, hypothesis testing, feature engineering, Matplotlib, Seaborn, Power BI, Tableau |
+| Machine learning | Scikit-learn, XGBoost, regression, decision trees, random forests, Naive Bayes, SVM, KNN, clustering, time series, cross-validation |
+| Deep learning & NLP | PyTorch, TensorFlow, Keras, CNNs, MLPs, BERT, Word2Vec, Hugging Face, Transformers, spaCy, NLTK, transfer learning, augmentation, quantization |
+| Generative & agentic AI | LangChain, LangGraph, LlamaIndex, CrewAI, CrewAI Flows, OpenAI API, Azure OpenAI, Ollama, prompt engineering, tool calling, agent memory, MCP / FastMCP |
+| Retrieval systems | RAG, Qdrant, Neo4j, embeddings, chunking, semantic search, cross-encoder reranking, CLIP, multimodal RAG, Graph RAG |
+| MLOps | MLflow, DVC, Weights & Biases, model registries, experiment tracking, GitHub Actions, CI/CD, canary and shadow deployments |
+| Data engineering | Apache Spark, PySpark, Spark SQL, Azure Databricks, Delta Lake, ETL / ELT, medallion architecture, Snowflake, NoSQL, data modeling |
+| Cloud & deployment | AWS, Azure, GCP, SageMaker, Azure ML, Vertex AI, S3, Lambda, Glue, Athena, Docker, Kubernetes, Terraform |
+| Evaluation & operations | Precision, recall, F1, RMSE, MAE, groundedness evaluation, drift monitoring, CloudWatch, Prometheus, Grafana, latency and availability SLOs |
+| GenAI foundations | Attention, tokenization, in-context learning, fine-tuning concepts, PEFT / LoRA concepts, hallucination mitigation, responsible AI |
 
-*These are areas I’m developing toward, with proposed changes reviewed and validated before execution.*
+## Explore my repositories
 
-### Related Repositories
+### Machine learning & deep learning
 
-[![Agentic Systems](https://img.shields.io/badge/Explore-Agentic_Systems-7C3AED?style=for-the-badge)](https://github.com/TIRUMALA9999/Agentic-Systems)
-[![RAG](https://img.shields.io/badge/Explore-RAG-6D28D9?style=for-the-badge)](https://github.com/TIRUMALA9999/Retrieval_Augmented_Generation)
-[![Generative AI](https://img.shields.io/badge/Explore-Generative_AI-9333EA?style=for-the-badge)](https://github.com/TIRUMALA9999/GenerativeAI)
+[Machine Learning](https://github.com/TIRUMALA9999/Machine_Learning) · [Deep Learning](https://github.com/TIRUMALA9999/Deep_Learning) · [CNNs](https://github.com/TIRUMALA9999/Convolution_Neural_Network) · [PyTorch](https://github.com/TIRUMALA9999/Pytorch) · [NLP](https://github.com/TIRUMALA9999/Natural_Language_Processing) · [Time Series](https://github.com/TIRUMALA9999/Time_series_forecasting) · [Exploratory Data Analysis](https://github.com/TIRUMALA9999/Exploratory_Data_Analysis) · [Statistics & Probability](https://github.com/TIRUMALA9999/Statistics_-_Probability)
 
----
+### Generative AI & agents
 
-## 🗂️ More From My Repositories
+[Agentic Systems](https://github.com/TIRUMALA9999/Agentic-Systems) · [RAG](https://github.com/TIRUMALA9999/Retrieval_Augmented_Generation) · [Generative AI Foundations](https://github.com/TIRUMALA9999/GenerativeAI)
 
-<details>
-<summary><b>🐍 Programming & Automation</b></summary>
+### Python & software
 
-<br>
+[Python](https://github.com/TIRUMALA9999/Python) · [Python Files & Projects](https://github.com/TIRUMALA9999/python_files_and_projects) · [DSA with Python](https://github.com/TIRUMALA9999/DSA-with-Python) · [FastAPI](https://github.com/TIRUMALA9999/Fast_API) · [Flask](https://github.com/TIRUMALA9999/Flask) · [Web Scraping](https://github.com/TIRUMALA9999/Web_Scraping)
 
-- [Python](https://github.com/TIRUMALA9999/Python)
-- [Python Files and Projects](https://github.com/TIRUMALA9999/python_files_and_projects)
-- [Go](https://github.com/TIRUMALA9999/Golang)
-- [Go — Additional Coursework](https://github.com/TIRUMALA9999/Golang_1)
-- [YAML](https://github.com/TIRUMALA9999/YAML)
-- [Data Structures and Algorithms with Python](https://github.com/TIRUMALA9999/DSA-with-Python)
+### Data pipelines & analytics
 
-</details>
+[Spotify Pipeline](https://github.com/TIRUMALA9999/Spotify_Data_Pipeline_) · [Apache Spark with Databricks](https://github.com/TIRUMALA9999/Apache_Spark_with_Databricks) · [Azure E-Commerce Pipeline](https://github.com/TIRUMALA9999/E-Commerce-azure-data-engineering) · [Snowflake](https://github.com/TIRUMALA9999/Snowflake) · [SQL](https://github.com/TIRUMALA9999/Structured_Query_Language-SQL-) · [Power BI](https://github.com/TIRUMALA9999/Power_BI)
 
-<details>
-<summary><b>🧪 Machine Learning & MLOps</b></summary>
+### MLOps & infrastructure
 
-<br>
+[MLflow](https://github.com/TIRUMALA9999/MLflow) · [DVC](https://github.com/TIRUMALA9999/Data_Version_Control) · [Weights & Biases](https://github.com/TIRUMALA9999/Weights_and_Biases) · [Docker](https://github.com/TIRUMALA9999/Docker) · [Kubernetes](https://github.com/TIRUMALA9999/Kubernetes) · [GitHub Actions](https://github.com/TIRUMALA9999/github-actions-bootcamp) · [Prometheus & Grafana](https://github.com/TIRUMALA9999/Prometheus_and_Grafana)
 
-- [MLflow](https://github.com/TIRUMALA9999/MLflow)
-- [Weights and Biases](https://github.com/TIRUMALA9999/Weights_and_Biases)
-- [Data Version Control](https://github.com/TIRUMALA9999/Data_Version_Control)
-- [Machine Learning](https://github.com/TIRUMALA9999/Machine_Learning)
-- [Deep Learning](https://github.com/TIRUMALA9999/Deep_Learning)
-- [PyTorch](https://github.com/TIRUMALA9999/Pytorch)
-- [PM2.5 Prediction Project](https://github.com/TIRUMALA9999/PM2.5_prediction_project)
+## Certifications
 
-</details>
-
-<details>
-<summary><b>🗄️ Data Engineering & APIs</b></summary>
-
-<br>
-
-- [E-Commerce Azure Data Engineering](https://github.com/TIRUMALA9999/E-Commerce-azure-data-engineering)
-- [Spotify Data Pipeline](https://github.com/TIRUMALA9999/Spotify_Data_Pipeline_)
-- [Apache Spark with Databricks](https://github.com/TIRUMALA9999/Apache_Spark_with_Databricks)
-- [SQL](https://github.com/TIRUMALA9999/Structured_Query_Language-SQL-)
-- [FastAPI](https://github.com/TIRUMALA9999/Fast_API)
-- [Flask](https://github.com/TIRUMALA9999/Flask)
-
-</details>
-
----
-
-## 🎓 Certifications
-
-- **AWS Certified Solutions Architect – Associate**
-- **Microsoft Certified: Azure AI Engineer Associate**
-- **HashiCorp Certified: Terraform Associate**
+- AWS Solution Architect Associate
+- Azure AI Engineer Associate
+- GCP Cloud Machine Learning Professional
+- IBM Data Scientist Professional
 
 ---
 
 <div align="center">
 
-### Let’s build more reliable engineering workflows.
+### Let’s build reliable AI systems.
 
-**Cloud foundations · Delivery automation · AI exploration**
-
-[Connect on LinkedIn](https://www.linkedin.com/in/tirumalatejayegineni/) · [Explore my repositories](https://github.com/TIRUMALA9999?tab=repositories)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%" alt="" />
+[View my portfolio](https://tirumala9999.github.io/) · [Connect on LinkedIn](https://www.linkedin.com/in/tirumalatejayegineni/) · [Email me](mailto:tirumalateja45@gmail.com)
 
 </div>
